@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hi, my name is Jonathan, I'm NLP data scientist and like to mine _unstructured_ data such as text data.
+
+- I'm the author of [Texthero](https://github.com/jbesomi/texthero), a simple python tool to deal with text data efficiently
+- I'm a teaching assistant at the [Data Science for Managers Network](https://github.com/dsfm-org)
+- I'm an AI consultant, specialized in NLP and text mining
+
+I believe the future of NLP and ML is in analyzing and find insights from large amounts of unstructured data. If you have the same idea, then drop me a line, it might be a match 👍 (spoiler: I'm about to start an AI startup ...)
 
 <!--
 **jbesomi/jbesomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
